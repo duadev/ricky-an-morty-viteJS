@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react'
 
-
 function Card() {
 
   const [lists, setList] = useState([])
