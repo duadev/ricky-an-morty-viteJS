@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import '../src/App.css'
 
 function Card() {
 
